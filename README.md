@@ -4,3 +4,6 @@ Se adjunta la visualización de la técnica de Ridgeline o Joy plot y la aplicac
 
 **Páginas web consultadas**
 
+https://spreadsheetweb.com/how-to-create-ridgeline-plot-joy-plot-in-excel/
+
+https://www.data-to-viz.com/graph/ridgeline.html
