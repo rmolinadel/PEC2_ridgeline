@@ -9,5 +9,3 @@ https://spreadsheetweb.com/how-to-create-ridgeline-plot-joy-plot-in-excel/
 https://www.data-to-viz.com/graph/ridgeline.html
 
 https://www.ine.es/jaxiT3/Datos.htm?t=46682
-
-https://rpubs.com/aafernandez1976/ridgelines
