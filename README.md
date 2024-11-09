@@ -1,6 +1,6 @@
 # PEC2_ridgeline
 
-Se adjunta la visualización de la técnica de Ridgeline o Joy plot, el código implementado en python que se ha utilizado para su elaboración y el archivo .xls de donde se han cargado los datos.
+Se adjunta la visualización de la técnica de Ridgeline o Joy plot, el código implementado en python que se ha utilizado para su elaboración y el archivo .xlsx de donde se han cargado los datos.
 
 **Páginas web consultadas**
 
